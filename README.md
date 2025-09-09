@@ -17,6 +17,16 @@ Flutter application for exploring recipes and managing favorite meals. Built wit
 - **Theming**: Material Design 3 with Google Fonts (Lato)
 - **Architecture**: Provider pattern with clear separation of concerns
 
+## Screenshots
+
+<div align="center">
+
+| Meal details screen                                                                                                    | Meal filters                                                                                                           | Adding to favorites                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| <img width="250" height="556" src="https://github.com/user-attachments/assets/072383cf-3f6c-41a4-9121-2d54687e0e3e" /> | <img width="250" height="556" src="https://github.com/user-attachments/assets/970c6bcb-6798-4298-8537-9e2ee1b63745" /> | <img width="250" height="556" src="https://github.com/user-attachments/assets/a414314d-121b-4e90-9a6e-f3ba242f1b76" /> |
+
+</div>
+
 ## Project Structure
 
 ```
@@ -88,16 +98,6 @@ flutter run
 - `google_fonts`: Custom typography with Lato font
 - `transparent_image`: Image loading optimization
 - `cupertino_icons`: iOS-style icons
-
-## Screenshots
-
-<div align="center">
-
-| Meal details screen                                                                                                    | Meal filters                                                                                                           | Adding to favorites                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| <img width="250" height="556" src="https://github.com/user-attachments/assets/072383cf-3f6c-41a4-9121-2d54687e0e3e" /> | <img width="250" height="556" src="https://github.com/user-attachments/assets/970c6bcb-6798-4298-8537-9e2ee1b63745" /> | <img width="250" height="556" src="https://github.com/user-attachments/assets/a414314d-121b-4e90-9a6e-f3ba242f1b76" /> |
-
-</div>
 
 ## Development Practices
 
