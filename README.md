@@ -95,7 +95,7 @@ flutter run
 
 | Meal details screen                                                                                       | Meal filters                                                                                              | Adding to favorites                                                                                       |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width="275" src="https://github.com/user-attachments/assets/072383cf-3f6c-41a4-9121-2d54687e0e3e" /> | <img width="275" src="https://github.com/user-attachments/assets/970c6bcb-6798-4298-8537-9e2ee1b63745" /> | <img width="275" src="https://github.com/user-attachments/assets/a414314d-121b-4e90-9a6e-f3ba242f1b76" /> |
+| <img width="250" src="https://github.com/user-attachments/assets/072383cf-3f6c-41a4-9121-2d54687e0e3e" /> | <img width="250" src="https://github.com/user-attachments/assets/970c6bcb-6798-4298-8537-9e2ee1b63745" /> | <img width="250" src="https://github.com/user-attachments/assets/a414314d-121b-4e90-9a6e-f3ba242f1b76" /> |
 
 </div>
 
